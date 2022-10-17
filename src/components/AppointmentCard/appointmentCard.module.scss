@@ -1,0 +1,19 @@
+.card {
+  outline: auto #cecaca;
+  margin: 0px 30px;
+
+  &:first-child {
+    margin-top: 5px;
+  }
+  &:last-child {
+    margin-bottom: 5px;
+  }
+}
+
+.container {
+  padding: 0.5rem 1.5rem 1rem 1.5rem;
+}
+
+.clinicWrapper {
+  margin-bottom: 30px;
+}
